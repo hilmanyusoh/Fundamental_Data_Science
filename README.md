@@ -7,4 +7,4 @@ It is a prediction project for the 2022 World Cup. How many goals will each team
 
 The objective is to predict the goals scored by each team in the 2022 World Cup.
 
-
+<img src="/Users/hilmanyusoh/Documents" alt="Alt text" title="Optional title">
