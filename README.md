@@ -14,9 +14,9 @@ The objective is to predict the goals scored by each team in the 2022 World Cup.
 * Installation
       * Python v.3
       * Python libraries:
-           * sklearn.
-           * Pandas.
-           * numpy.
-           * seaborn
+            * sklearn.
+            * Pandas.
+            * numpy.
+            * seaborn
            * matplotlib.
            * os
