@@ -12,11 +12,17 @@ The objective is to predict the goals scored by each team in the 2022 World Cup.
     * Anaconda
     * Jupyter lab
 * Installation
-       * Python v.3
-       * Python libraries:
-             * sklearn.
-             * Pandas.
-             * numpy.
-             * seaborn
-             * matplotlib.
-             * os
+    * Python v.3
+    * Python libraries:
+       * sklearn.
+       * Pandas.
+       * numpy.
+       * seaborn.
+       * matplotlib.
+       * os.
+
+# Methodology #
+
+## Data understand ##
+Information taken [https://www.kaggle.com](https://www.kaggle.com)
+as an Excel file
