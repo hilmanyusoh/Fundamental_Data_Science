@@ -73,6 +73,22 @@ as an Csv file
 
 #
 ## 6. The sum of 'Red cards' for each team 
+<img width="1067" alt="Screenshot 2566-10-18 at 21 07 30" src="https://github.com/hilmanyusoh/Fundamental_Data_Science/assets/118374893/1381b2af-4e49-4d97-ad71-b183a53da429">
+<img width="1062" alt="Screenshot 2566-10-18 at 21 09 28" src="https://github.com/hilmanyusoh/Fundamental_Data_Science/assets/118374893/69d4681c-9b36-47ac-887d-978759d94723">
+<img width="1058" alt="Screenshot 2566-10-18 at 21 10 27" src="https://github.com/hilmanyusoh/Fundamental_Data_Science/assets/118374893/94fb090f-0eec-4a81-ad0d-07c3a18c1af2">
+<img width="1055" alt="Screenshot 2566-10-18 at 21 17 38" src="https://github.com/hilmanyusoh/Fundamental_Data_Science/assets/118374893/3e62b0fb-2ffb-42f2-b1cd-c09e7f7032c4">
+<img width="1050" alt="Screenshot 2566-10-18 at 21 18 16" src="https://github.com/hilmanyusoh/Fundamental_Data_Science/assets/118374893/57b23bae-5ec1-4a97-8142-546cb28d0b1f">
+
+
+### Plotting
+<img width="1065" alt="Screenshot 2566-10-18 at 21 12 24" src="https://github.com/hilmanyusoh/Fundamental_Data_Science/assets/118374893/fb014aa2-6104-4960-b314-bb222becdb93">
+<img width="1061" alt="Screenshot 2566-10-18 at 21 19 42" src="https://github.com/hilmanyusoh/Fundamental_Data_Science/assets/118374893/3f8e30f2-aaca-4319-9ff7-24181b47945e">
+
+#
+## 7. The average of ‘attempts’ for each team
+
+
+
 
 
 
